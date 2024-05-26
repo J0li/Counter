@@ -34,6 +34,7 @@ p {
 }
 
 .btn-plus {
+    margin: 16px;
     border-radius: 20px;
     background: #b2e272;
 }
@@ -46,11 +47,12 @@ p {
 
 
 .btn-menus {
+    margin: 16px;
     border-radius: 20px;
     background: #f58888;
 }
 
-.btn-menus:hover{
+.btn-menus:hover {
     background-color: rgba(202, 27, 27, 0.4);
     color: #d84e4e;
     border-color: #d84e4e;
